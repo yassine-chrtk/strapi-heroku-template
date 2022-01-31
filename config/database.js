@@ -27,7 +27,7 @@ module.exports = ({ env }) => {
 
 */
 
-Use this configuration for an SQLite database on your machine.
+// Use this configuration for an SQLite database on your machine.
 module.exports = ({ env }) => ({
   defaultConnection: 'default',
   connections: {
